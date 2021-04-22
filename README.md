@@ -1,5 +1,8 @@
 # Bulkz-Tool
-Free Email-scraping tool. With some bugs.
-It is based on python 3 Don't do any changes if You don't know WTH is happening in This code.
-* Required changes:-
-1-Add Selinium installer in it.
+<h1> This program Is outdated check other repositeries for working programs.. </h1>
+<style>
+  body h1 {
+  font-size:5rem;
+  }
+  </style>
+  
